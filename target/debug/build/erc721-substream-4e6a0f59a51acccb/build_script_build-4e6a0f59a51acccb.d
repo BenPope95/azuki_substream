@@ -1,5 +1,5 @@
-/Users/ben/rust_projects/erc721_substream/target/debug/build/erc721-substream-4e6a0f59a51acccb/build_script_build-4e6a0f59a51acccb: build.rs
+/Users/ben/rust_projects/azuki_substream/target/debug/build/erc721-substream-4e6a0f59a51acccb/build_script_build-4e6a0f59a51acccb: build.rs
 
-/Users/ben/rust_projects/erc721_substream/target/debug/build/erc721-substream-4e6a0f59a51acccb/build_script_build-4e6a0f59a51acccb.d: build.rs
+/Users/ben/rust_projects/azuki_substream/target/debug/build/erc721-substream-4e6a0f59a51acccb/build_script_build-4e6a0f59a51acccb.d: build.rs
 
 build.rs:

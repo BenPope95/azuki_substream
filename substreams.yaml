@@ -21,7 +21,7 @@ binaries:
 modules:
   - name: map_mints
     kind: map
-    initialBlock: 13988520
+    initialBlock: 13988500
     inputs:
       - source: sf.ethereum.type.v2.Block
     output:
@@ -29,7 +29,7 @@ modules:
 
   - name: map_approvals
     kind: map
-    initialBlock: 1395838
+    initialBlock: 13988500
     inputs:
       - source: sf.ethereum.type.v2.Block
     output:
@@ -37,7 +37,7 @@ modules:
 
   - name: graph_out
     kind: map
-    initialBlock: 1395838
+    initialBlock: 13988500
     inputs:
       - source: sf.substreams.v1.Clock
       - map: map_mints
